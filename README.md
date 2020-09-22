@@ -8,6 +8,7 @@ Create [Simon](https://en.wikipedia.org/wiki/Simon_(game)) the game.
 
 - (1) ESP32 Devkit-C v4
 - (4) LEDs
+- (4) Resistors (220 Ohms)
 - (4) Push buttons
 - (1) Breadboard
 - (-) Wires
@@ -39,6 +40,7 @@ Links to relevant documentation are at the bottom of this document.
 - The dev boards provided require a micro-USB cable to flash
 - Be creative with the game (e.g. number of rounds, play speed, led animations)
 - Feel free to use extra electronic components if you feel compelled
+- We encourage using Git (or other source control tool) to help provide history
 - Be prepared to discuss your code and development process
 - Good luck!
 
